@@ -2,7 +2,6 @@ import TradingChart from "../components/TradingChart";
 import AnimatedBalance from "../components/AnimatedBalance";
 import RecentTrades from "../components/RecentTrades";
 import LiveStats from "../components/LiveStats";
-import LiveStats from "../components/LiveStats";
 import { useEffect, useState } from "react";
 import api from "../api";
 import FakeWithdraw from "../components/FakeWithdraw"
